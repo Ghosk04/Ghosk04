@@ -48,9 +48,7 @@
 <div data-importer="stats" align="center">
   <!-- Streak Stats (Fonctionne parfaitement) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosk04&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  
-  <!-- Top Languages (Alternative souvent plus stable) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosk04&theme=dracula&layout=compact&hide_border=false" height="150" alt="top languages" />
+
 </div>
 
 ###
