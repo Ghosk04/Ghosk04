@@ -1,4 +1,4 @@
-f## Hi there 👋
+##Hi there 👋
 
 
 - 🔭 I’m currently working on my R&D / MLOps Internship – Optimization & Industrialization of Multimodal AI Pipelines at Tolo
