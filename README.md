@@ -46,9 +46,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Ghosk04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="[https://raw.githubusercontent.com/Ghosk04/Ghosk04/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4](https://raw.githubusercontent.com/Ghosk04/Ghosk04/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)" height="150" alt="trophy graph"  />
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ghosk04&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosk04&theme=dracula&layout=compact&hide_border=false" />
+</a>
 
 ###
 
