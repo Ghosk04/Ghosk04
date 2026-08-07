@@ -46,12 +46,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ghosk04&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosk04&theme=dracula&layout=compact&hide_border=false" />
-</a>
+  <!-- Les statistiques de contribution (Streak) via le serveur officiel et plus stable -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosk04&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  
+  <!-- Tes statistiques générales GitHub pour remplacer les trophées défectueux -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghosk04&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="github stats" />
+</div>
 
 ###
 
