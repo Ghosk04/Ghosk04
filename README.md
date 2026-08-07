@@ -46,11 +46,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <!-- Les statistiques de contribution (Streak) via le serveur officiel et plus stable -->
+  <!-- Streak Stats (Fonctionne parfaitement) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghosk04&theme=dracula&hide_border=false" height="150" alt="streak graph" />
   
-  <!-- Tes statistiques générales GitHub pour remplacer les trophées défectueux -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghosk04&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="github stats" />
+  <!-- Top Languages (Alternative souvent plus stable) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosk04&theme=dracula&layout=compact&hide_border=false" height="150" alt="top languages" />
 </div>
 
 ###
